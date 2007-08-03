@@ -14,7 +14,7 @@ BuildRequires:	automake
 BuildRequires:	glib2-devel >= 1:2.2.0
 BuildRequires:	gtk+2-devel >= 2:2.2.0
 BuildRequires:	gtk-webcore-jscore-libs-devel >= 0.5.3
-BuildRequires:	libtool
+BuildRequires:	libtool >= 2:1.5
 BuildRequires:	libxml2-devel >= 1:2.6.0
 BuildRequires:	pkgconfig
 BuildRequires:	xorg-lib-libXt-devel
